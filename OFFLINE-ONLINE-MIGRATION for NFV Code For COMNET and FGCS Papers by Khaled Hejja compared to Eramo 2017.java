@@ -8,7 +8,7 @@ public class ONOFFBEST {
 			
 	
 public static int[][] Path9()
-	{
+	{ // The network as from Eramo 2017. Go to my COMNET and FGCA papers please.
 	// These are the paths that have 9 nodes end-to-end {path#,source&destination,server#,0,1,2,3,4,5,6,7,8}
 	int[][] P9 = {
 			
